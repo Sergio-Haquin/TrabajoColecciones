@@ -1,5 +1,7 @@
 package Actividad1;
 
+import java.util.Objects;
+
 public class Alumnos {
     private String nombre;
     private double nota;
